@@ -1,0 +1,14 @@
+year,measure,value,source,url,note
+2014,reported_pct_personal_crimes_excl_cyber,36.9,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 9.6%
+2015,reported_pct_personal_crimes_excl_cyber,26.4,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 9.9%
+2016,reported_pct_personal_crimes_excl_cyber,30.7,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 9.0%
+2017,reported_pct_personal_crimes_excl_cyber,34.0,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 8.8%
+2018,reported_pct_personal_crimes_excl_cyber,33.4,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 9.0%
+2019,reported_pct_personal_crimes_excl_cyber,31.7,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 8.5%
+2020,reported_pct_personal_crimes_excl_cyber,31.3,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 6.3%
+2021,reported_pct_personal_crimes_excl_cyber,28.4,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 7.9%
+2022,reported_pct_personal_crimes_excl_cyber,28.9,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 8.1%
+2023,reported_pct_personal_crimes_excl_cyber,25.6,"CBS media release 275/2024, chart 12 data",https://www.cbs.gov.il/he/mediarelease/DocLib/2024/275/18_24_275t12.xlsx,victimization rate (personal crimes excl. cyber) = 10.3%
+2022,victims_reported_at_least_once_pct,21.0,CBS media release 353/2024,https://www.cbs.gov.il/he/mediarelease/DocLib/2024/353/18_24_353b.pdf,186.1k of 887.6k victims
+2023,victims_reported_at_least_once_pct,18.1,CBS media release 353/2024,https://www.cbs.gov.il/he/mediarelease/DocLib/2024/353/18_24_353b.pdf,194.8k of 1.075m victims
+2025,victims_reported_at_least_once_pct,20.1,CBS media release 084/2026; pub. 1992 p.11,https://www.cbs.gov.il/he/mediarelease/DocLib/2026/084/18_26_084b.pdf,'reported victimization from one of the personal crimes'

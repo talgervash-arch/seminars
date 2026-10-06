@@ -1,116 +1,362 @@
 year,religiosity,crime_type,population_20plus_thousands,victims_thousands,victims_pct,reliability,reliability_thousands,source,page,url,note
-2019,haredi,cyber,439.6,13.2,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
-2019,haredi,sexual_offences,439.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,haredi,sexual_harassment,439.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,haredi,violence_threat,439.6,14.1,3.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,haredi,theft,439.6,24.1,5.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,haredi,total,439.6,51.7,11.8,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2015,dati,cyber,408.1,14.2,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,dati,sexual_harassment,408.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,dati,sexual_offences,408.1,,,not_asked,not_asked,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,dati,theft,408.1,10.1,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,dati,total,408.1,38.6,9.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,dati,violence_threat,408.1,11.4,2.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,haredi,cyber,411.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,haredi,sexual_harassment,411.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,haredi,sexual_offences,411.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,haredi,theft,411.3,19.2,4.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,haredi,total,411.3,45.9,11.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,haredi,violence_threat,411.3,13.4,3.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,hiloni,cyber,1932.4,101.8,5.3,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,hiloni,sexual_harassment,1932.4,63.6,3.3,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,hiloni,sexual_offences,1932.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,hiloni,theft,1932.4,94.6,4.9,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,hiloni,total,1932.4,283.8,14.7,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,hiloni,violence_threat,1932.4,82.2,4.3,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_dati,cyber,466.4,26.9,5.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_dati,sexual_harassment,466.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_dati,sexual_offences,466.4,,,not_asked,not_asked,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_dati,theft,466.4,18.6,4.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_dati,total,466.4,66.2,14.2,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_dati,violence_threat,466.4,23.2,5.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_lo_dati,cyber,871.7,46.4,5.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_lo_dati,sexual_harassment,871.7,29.9,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_lo_dati,sexual_offences,871.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_lo_dati,theft,871.7,46.2,5.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_lo_dati,total,871.7,133.8,15.4,ok,ok,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2015,masorti_lo_dati,violence_threat,871.7,26.4,3.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1653, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2016/1653_bitachon_ishi_2015/h_print.pdf,
+2016,dati,cyber,464.2,22.9,4.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,dati,sexual_harassment,464.2,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,dati,sexual_offences,464.2,,,not_asked,not_asked,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,dati,theft,464.2,14.0,3.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,dati,total,464.2,51.9,11.2,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,dati,violence_threat,464.2,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,haredi,cyber,367.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,haredi,sexual_harassment,367.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,haredi,sexual_offences,367.3,,,not_asked,not_asked,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,haredi,theft,367.3,17.6,4.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,haredi,total,367.3,37.1,10.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,haredi,violence_threat,367.3,11.8,3.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,hiloni,cyber,2027.1,100.6,5.0,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,hiloni,sexual_harassment,2027.1,55.3,2.7,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,hiloni,sexual_offences,2027.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,hiloni,theft,2027.1,103.2,5.1,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,hiloni,total,2027.1,292.4,14.4,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,hiloni,violence_threat,2027.1,67.6,3.3,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_dati,cyber,511.4,14.4,2.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_dati,sexual_harassment,511.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_dati,sexual_offences,511.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_dati,theft,511.4,18.6,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_dati,total,511.4,50.6,9.9,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_dati,violence_threat,511.4,19.7,3.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_lo_dati,cyber,792.1,17.7,2.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_lo_dati,sexual_harassment,792.1,25.1,3.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_lo_dati,sexual_offences,792.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_lo_dati,theft,792.1,28.0,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_lo_dati,total,792.1,92.0,11.6,ok,ok,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2016,masorti_lo_dati,violence_threat,792.1,30.6,3.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1702, table 1.2",74,https://www.cbs.gov.il/he/publications/DocLib/2018/victim16_1702/h_print.pdf,
+2017,dati,cyber,487.8,22.4,4.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,dati,sexual_harassment,487.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,dati,sexual_offences,487.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,dati,theft,487.8,18.4,3.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,dati,total,487.8,65.8,13.5,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,dati,violence_threat,487.8,21.6,4.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,haredi,cyber,409.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,haredi,sexual_harassment,409.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,haredi,sexual_offences,409.5,,,not_asked,not_asked,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,haredi,theft,409.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,haredi,total,409.5,38.9,9.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,haredi,violence_threat,409.5,20.2,4.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,hiloni,cyber,2076.0,99.4,4.8,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,hiloni,sexual_harassment,2076.0,57.1,2.8,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,hiloni,sexual_offences,2076.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,hiloni,theft,2076.0,74.4,3.6,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,hiloni,total,2076.0,276.2,13.3,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,hiloni,violence_threat,2076.0,79.8,3.8,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_dati,cyber,545.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_dati,sexual_harassment,545.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_dati,sexual_offences,545.7,,,not_asked,not_asked,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_dati,theft,545.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_dati,total,545.7,52.3,9.6,ok,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_dati,violence_threat,545.7,18.0,3.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_lo_dati,cyber,717.4,29.7,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_lo_dati,sexual_harassment,717.4,15.8,2.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_lo_dati,sexual_offences,717.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_lo_dati,theft,717.4,19.9,2.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_lo_dati,total,717.4,93.7,13.1,ok,ok,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2017,masorti_lo_dati,violence_threat,717.4,36.6,5.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1731, table 1.2",76,https://www.cbs.gov.il/he/publications/DocLib/2018/victim17_1731/h_print.pdf,
+2018,dati,cyber,473.2,16.7,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,dati,sexual_harassment,473.2,17.1,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,dati,sexual_offences,473.2,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,dati,theft,473.2,17.7,3.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,dati,total,473.2,60.9,12.9,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,dati,violence_threat,473.2,15.9,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,haredi,cyber,397.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,haredi,sexual_harassment,397.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,haredi,sexual_offences,397.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,haredi,theft,397.6,16.2,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,haredi,total,397.6,34.4,8.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,haredi,violence_threat,397.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,hiloni,cyber,2112.4,96.1,4.6,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,hiloni,sexual_harassment,2112.4,84.3,4.0,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,hiloni,sexual_offences,2112.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,hiloni,theft,2112.4,69.0,3.3,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,hiloni,total,2112.4,293.6,13.9,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,hiloni,violence_threat,2112.4,87.2,4.1,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_dati,cyber,587.0,25.5,4.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_dati,sexual_harassment,587.0,13.8,2.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_dati,sexual_offences,587.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_dati,theft,587.0,26.5,4.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_dati,total,587.0,75.3,12.8,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_dati,violence_threat,587.0,20.8,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_lo_dati,cyber,657.0,23.8,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_lo_dati,sexual_harassment,657.0,18.5,2.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_lo_dati,sexual_offences,657.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_lo_dati,theft,657.0,25.3,3.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_lo_dati,total,657.0,83.3,12.7,ok,ok,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
+2018,masorti_lo_dati,violence_threat,657.0,27.9,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1767, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2019/1767_bitachon_ishi_2018/h_print.pdf,
 2019,dati,cyber,497.8,14.1,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
-2019,dati,sexual_offences,497.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,dati,sexual_harassment,497.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,dati,violence_threat,497.8,20.5,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,dati,sexual_offences,497.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,dati,theft,497.8,24.9,5.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,dati,total,497.8,55.8,11.2,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_dati,cyber,660.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
-2019,masorti_dati,sexual_offences,660.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_dati,sexual_harassment,660.3,16.5,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_dati,violence_threat,660.3,19.1,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_dati,theft,660.3,13.1,2.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_dati,total,660.3,55.2,8.4,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_lo_dati,cyber,614.5,27.1,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
-2019,masorti_lo_dati,sexual_offences,614.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_lo_dati,sexual_harassment,614.5,14.1,2.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_lo_dati,violence_threat,614.5,21.9,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_lo_dati,theft,614.5,29.2,4.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,masorti_lo_dati,total,614.5,78.5,12.8,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,dati,violence_threat,497.8,20.5,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,haredi,cyber,439.6,13.2,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
+2019,haredi,sexual_harassment,439.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,haredi,sexual_offences,439.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,haredi,theft,439.6,24.1,5.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,haredi,total,439.6,51.7,11.8,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,haredi,violence_threat,439.6,14.1,3.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,hiloni,cyber,2092.8,125.1,6.0,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
-2019,hiloni,sexual_offences,2092.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,hiloni,sexual_harassment,2092.8,70.0,3.3,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2019,hiloni,violence_threat,2092.8,80.5,3.8,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,hiloni,sexual_offences,2092.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,hiloni,theft,2092.8,61.5,2.9,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2019,hiloni,total,2092.8,297.1,14.2,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
-2020,haredi,cyber,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,haredi,sexual_harassment,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,haredi,violence_threat,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,haredi,theft,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,haredi,total,442.9,23.7,5.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2019,hiloni,violence_threat,2092.8,80.5,3.8,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_dati,cyber,660.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
+2019,masorti_dati,sexual_harassment,660.3,16.5,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_dati,sexual_offences,660.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_dati,theft,660.3,13.1,2.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_dati,total,660.3,55.2,8.4,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_dati,violence_threat,660.3,19.1,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_lo_dati,cyber,614.5,27.1,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,"CBS source inconsistency: 2019 cyber-crime % does not equal thousands/population for haredi, dati, masorti_lo_dati (e.g. 13.2/439.6=3.0% vs printed 3.5%); verified against rendered page; cite with caution"
+2019,masorti_lo_dati,sexual_harassment,614.5,14.1,2.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_lo_dati,sexual_offences,614.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_lo_dati,theft,614.5,29.2,4.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_lo_dati,total,614.5,78.5,12.8,ok,ok,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
+2019,masorti_lo_dati,violence_threat,614.5,21.9,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1808, table 1.2",100,https://www.cbs.gov.il/he/publications/DocLib/2020/1808_victimization_survey_2019/h_print.pdf,
 2020,dati,cyber,547.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,dati,sexual_harassment,547.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,dati,violence_threat,547.4,13.0,2.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,dati,theft,547.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,dati,total,547.4,42.2,7.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_dati,cyber,821.9,16.9,2.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_dati,sexual_harassment,821.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_dati,violence_threat,821.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_dati,theft,821.9,13.5,1.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_dati,total,821.9,49.4,6.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_lo_dati,cyber,614.7,28.3,4.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_lo_dati,sexual_harassment,614.7,15.4,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_lo_dati,violence_threat,614.7,23.1,3.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_lo_dati,theft,614.7,17.7,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,masorti_lo_dati,total,614.7,74.3,12.1,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,dati,violence_threat,547.4,13.0,2.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,haredi,cyber,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,haredi,sexual_harassment,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,haredi,theft,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,haredi,total,442.9,23.7,5.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,haredi,violence_threat,442.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,hiloni,cyber,1996.6,121.8,6.1,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,hiloni,sexual_harassment,1996.6,59.2,3.0,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2020,hiloni,violence_threat,1996.6,55.5,2.8,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,hiloni,theft,1996.6,52.6,2.6,ok,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2020,hiloni,total,1996.6,253.9,12.7,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
-2021,haredi,cyber,453.1,24.8,5.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,haredi,sexual_offences,453.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,haredi,sexual_harassment,453.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,haredi,violence_threat,453.1,15.4,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,haredi,theft,453.1,13.0,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,haredi,total,453.1,50.8,11.2,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2020,hiloni,violence_threat,1996.6,55.5,2.8,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_dati,cyber,821.9,16.9,2.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_dati,sexual_harassment,821.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_dati,theft,821.9,13.5,1.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_dati,total,821.9,49.4,6.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_dati,violence_threat,821.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_lo_dati,cyber,614.7,28.3,4.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_lo_dati,sexual_harassment,614.7,15.4,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_lo_dati,theft,614.7,17.7,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_lo_dati,total,614.7,74.3,12.1,ok,ok,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
+2020,masorti_lo_dati,violence_threat,614.7,23.1,3.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1834, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2021/1834/h_print.pdf,
 2021,dati,cyber,488.6,35.6,7.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,dati,sexual_offences,488.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,dati,sexual_harassment,488.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,dati,violence_threat,488.6,20.6,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,dati,sexual_offences,488.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,dati,theft,488.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,dati,total,488.6,65.5,13.4,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_dati,cyber,575.0,34.9,6.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_dati,sexual_offences,575.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_dati,sexual_harassment,575.0,17.9,3.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_dati,violence_threat,575.0,14.8,2.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_dati,theft,575.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_dati,total,575.0,69.2,12.0,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_lo_dati,cyber,807.2,63.1,7.8,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_lo_dati,sexual_offences,807.2,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_lo_dati,sexual_harassment,807.2,32.7,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_lo_dati,violence_threat,807.2,23.9,3.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_lo_dati,theft,807.2,17.9,2.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,masorti_lo_dati,total,807.2,122.4,15.2,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,dati,violence_threat,488.6,20.6,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,haredi,cyber,453.1,24.8,5.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,haredi,sexual_harassment,453.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,haredi,sexual_offences,453.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,haredi,theft,453.1,13.0,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,haredi,total,453.1,50.8,11.2,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,haredi,violence_threat,453.1,15.4,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,hiloni,cyber,2141.8,182.3,8.5,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,hiloni,sexual_offences,2141.8,12.8,0.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,hiloni,sexual_harassment,2141.8,86.8,4.0,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2021,hiloni,violence_threat,2141.8,75.3,3.5,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,hiloni,sexual_offences,2141.8,12.8,0.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,hiloni,theft,2141.8,52.0,2.4,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2021,hiloni,total,2141.8,334.3,15.6,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
-2022,haredi,cyber,491.1,28.6,5.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,haredi,sexual_offences,491.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,haredi,sexual_harassment,491.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,haredi,violence_threat,491.1,19.4,4.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,haredi,theft,491.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,haredi,total,491.1,56.8,11.6,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2021,hiloni,violence_threat,2141.8,75.3,3.5,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_dati,cyber,575.0,34.9,6.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_dati,sexual_harassment,575.0,17.9,3.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_dati,sexual_offences,575.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_dati,theft,575.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_dati,total,575.0,69.2,12.0,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_dati,violence_threat,575.0,14.8,2.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_lo_dati,cyber,807.2,63.1,7.8,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_lo_dati,sexual_harassment,807.2,32.7,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_lo_dati,sexual_offences,807.2,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_lo_dati,theft,807.2,17.9,2.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_lo_dati,total,807.2,122.4,15.2,ok,ok,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
+2021,masorti_lo_dati,violence_threat,807.2,23.9,3.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1867, table 1.2",103,https://www.cbs.gov.il/he/publications/DocLib/2022/1867/h_print.pdf,
 2022,dati,cyber,524.7,48.5,9.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,dati,sexual_offences,524.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,dati,sexual_harassment,524.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,dati,violence_threat,524.7,25.3,4.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,dati,sexual_offences,524.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,dati,theft,524.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,dati,total,524.7,77.3,14.7,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_dati,cyber,524.8,43.7,8.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_dati,sexual_offences,524.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_dati,sexual_harassment,524.8,19.0,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_dati,violence_threat,524.8,21.9,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_dati,theft,524.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_dati,total,524.8,82.0,15.6,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_lo_dati,cyber,826.7,70.2,8.5,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_lo_dati,sexual_offences,826.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_lo_dati,sexual_harassment,826.7,31.9,3.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_lo_dati,violence_threat,826.7,35.9,4.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_lo_dati,theft,826.7,21.1,2.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,masorti_lo_dati,total,826.7,135.2,16.4,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,dati,violence_threat,524.7,25.3,4.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,haredi,cyber,491.1,28.6,5.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,haredi,sexual_harassment,491.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,haredi,sexual_offences,491.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,haredi,theft,491.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,haredi,total,491.1,56.8,11.6,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,haredi,violence_threat,491.1,19.4,4.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,hiloni,cyber,2055.8,231.9,11.3,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,hiloni,sexual_offences,2055.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,hiloni,sexual_harassment,2055.8,74.0,3.6,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
-2022,hiloni,violence_threat,2055.8,69.4,3.4,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,hiloni,sexual_offences,2055.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,hiloni,theft,2055.8,54.3,2.6,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
 2022,hiloni,total,2055.8,398.7,19.4,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,hiloni,violence_threat,2055.8,69.4,3.4,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_dati,cyber,524.8,43.7,8.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_dati,sexual_harassment,524.8,19.0,3.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_dati,sexual_offences,524.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_dati,theft,524.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_dati,total,524.8,82.0,15.6,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_dati,violence_threat,524.8,21.9,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_lo_dati,cyber,826.7,70.2,8.5,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_lo_dati,sexual_harassment,826.7,31.9,3.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_lo_dati,sexual_offences,826.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_lo_dati,theft,826.7,21.1,2.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_lo_dati,total,826.7,135.2,16.4,ok,ok,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2022,masorti_lo_dati,violence_threat,826.7,35.9,4.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1907, table 1.2",117,https://www.cbs.gov.il/he/publications/doclib/2023/victim22_1907/t01_02.pdf,
+2023,dati,cyber,512.1,56.6,11.0,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,dati,cyberbullying_shaming,512.1,16.6,3.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,dati,sexual_harassment,512.1,27.1,5.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,dati,sexual_offences,512.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,dati,theft,512.1,17.7,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,dati,total,512.1,108.2,21.1,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,dati,violence_threat,512.1,30.4,5.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,cyber,515.0,36.1,7.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,cyberbullying_shaming,515.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,sexual_harassment,515.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,sexual_offences,515.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,theft,515.0,17.2,3.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,total,515.0,79.6,15.5,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,haredi,violence_threat,515.0,35.2,6.8,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,cyber,2179.7,270.1,12.4,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,cyberbullying_shaming,2179.7,65.3,3.0,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,sexual_harassment,2179.7,91.5,4.2,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,sexual_offences,2179.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,theft,2179.7,60.8,2.8,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,total,2179.7,446.0,20.5,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,hiloni,violence_threat,2179.7,113.2,5.2,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,cyber,536.3,57.9,10.8,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,cyberbullying_shaming,536.3,16.4,3.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,sexual_harassment,536.3,15.7,2.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,sexual_offences,536.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,theft,536.3,23.0,4.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,total,536.3,102.2,19.1,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_dati,violence_threat,536.3,29.0,5.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,cyber,824.0,95.0,11.5,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,cyberbullying_shaming,824.0,24.8,3.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,sexual_harassment,824.0,34.5,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,sexual_offences,824.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,theft,824.0,27.1,3.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,total,824.0,170.3,20.7,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,masorti_lo_dati,violence_threat,824.0,50.2,6.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,cyber,4567.1,515.7,11.3,low_rse_15_30,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,cyberbullying_shaming,4567.1,132.2,2.9,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,sexual_harassment,4567.1,177.7,3.9,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,sexual_offences,4567.1,18.5,0.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,theft,4567.1,145.8,3.2,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,total,4567.1,906.3,19.8,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2023,total_jews,violence_threat,4567.1,257.9,5.6,ok,ok,"CBS pub. 1948, table 1.2",105,https://www.cbs.gov.il/he/publications/DocLib/2025/1948/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,cyber,594.5,71.7,12.1,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,cyberbullying_shaming,594.5,24.2,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,sexual_harassment,594.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,sexual_offences,594.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,theft,594.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,total,594.5,109.5,18.4,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,dati,violence_threat,594.5,20.5,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,cyber,573.3,29.2,5.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,cyberbullying_shaming,573.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,sexual_harassment,573.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,sexual_offences,573.3,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,theft,573.3,17.2,3.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,total,573.3,72.8,12.7,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,haredi,violence_threat,573.3,30.9,5.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,cyber,2123.4,239.0,11.3,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,cyberbullying_shaming,2123.4,73.5,3.5,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,sexual_harassment,2123.4,75.7,3.6,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,sexual_offences,2123.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,theft,2123.4,55.2,2.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,total,2123.4,414.7,19.5,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,hiloni,violence_threat,2123.4,110.8,5.2,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,cyber,563.7,46.5,8.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,cyberbullying_shaming,563.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,sexual_harassment,563.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,sexual_offences,563.7,,,no_cases,no_cases,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,theft,563.7,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,total,563.7,71.5,12.7,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_dati,violence_threat,563.7,14.2,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,cyber,874.8,96.6,11.1,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,cyberbullying_shaming,874.8,29.0,3.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,sexual_harassment,874.8,29.6,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,sexual_offences,874.8,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,theft,874.8,21.5,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,total,874.8,153.8,17.6,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,masorti_lo_dati,violence_threat,874.8,37.0,4.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,cyber,4729.6,483.0,10.2,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,cyberbullying_shaming,4729.6,143.3,3.0,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,sexual_harassment,4729.6,138.2,2.9,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,sexual_offences,4729.6,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,theft,4729.6,119.9,2.5,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,total,4729.6,822.4,17.4,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2024,total_jews,violence_threat,4729.6,213.4,4.5,ok,ok,"CBS pub. 1974, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2025/victim24_1974/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,cyber,541.1,36.0,6.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,cyberbullying_shaming,541.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,sexual_harassment,541.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,sexual_offences,541.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,theft,541.1,21.1,3.9,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,total,541.1,73.6,13.6,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,dati,violence_threat,541.1,16.9,3.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,cyber,607.1,34.6,5.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,cyberbullying_shaming,607.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,sexual_harassment,607.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,sexual_offences,607.1,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,theft,607.1,19.4,3.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,total,607.1,66.8,11.0,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,haredi,violence_threat,607.1,15.2,2.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,cyber,2081.4,239.2,11.5,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,cyberbullying_shaming,2081.4,65.9,3.2,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,sexual_harassment,2081.4,62.0,3.0,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,sexual_offences,2081.4,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,theft,2081.4,56.1,2.7,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,total,2081.4,381.3,18.3,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,hiloni,violence_threat,2081.4,73.4,3.5,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,cyber,696.9,52.1,7.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,cyberbullying_shaming,696.9,17.9,2.6,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,sexual_harassment,696.9,24.0,3.4,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,sexual_offences,696.9,,,no_cases,no_cases,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,theft,696.9,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,total,696.9,105.0,15.1,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_dati,violence_threat,696.9,36.4,5.2,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,cyber,824.0,92.1,11.2,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,cyberbullying_shaming,824.0,35.1,4.3,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,sexual_harassment,824.0,28.9,3.5,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,sexual_offences,824.0,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,theft,824.0,33.5,4.1,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,total,824.0,167.4,20.3,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,masorti_lo_dati,violence_threat,824.0,33.3,4.0,low_rse_15_30,low_rse_15_30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,cyber,4750.5,453.8,9.6,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,cyberbullying_shaming,4750.5,137.5,2.9,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,sexual_harassment,4750.5,132.4,2.8,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,sexual_offences,4750.5,,,suppressed_rse_gt30,suppressed_rse_gt30,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,theft,4750.5,144.3,3.0,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,total,4750.5,794.0,16.7,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
+2025,total_jews,violence_threat,4750.5,175.2,3.7,ok,ok,"CBS pub. 1992, table 1.2",77,https://www.cbs.gov.il/he/publications/DocLib/2026/1992/h_print.pdf,2023+: excludes respondents who did not state religiosity
