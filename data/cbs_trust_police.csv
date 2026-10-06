@@ -1,0 +1,13 @@
+year,haredim_pct,all_20plus_pct,jews_pct,comparable,source,note
+2014,37.5,47.2,,0,"CBS pub. 1648, table 37","yes/no scale - not comparable"
+2015,52.3,52.6,,1,"CBS pub. 1670, table 37",
+2016,,,,,,"not asked"
+2017,,,,,,"not asked"
+2018,,,,,,"not asked"
+2019,,,,,,"not asked"
+2020,,,,,,"not asked"
+2021,45.9,51.2,,1,"CBS pub. 1905, core table 20",
+2022,32.0,47.6,,1,"CBS pub. 1939, core table 20",
+2023,51.6,51.9,,1,"CBS pub. 1972, core table 20","check fieldwork dates vs 7 Oct"
+2024,53.2,56.1,,1,"CBS pub. 1985, core table 20",
+2025,47.6,55,58.2,1,"CBS table generator; media release 202/2026","haredim 48% in release; all 20+ = 55% (release); jews 58.2 generator vs 59 release"

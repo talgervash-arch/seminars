@@ -1,0 +1,15 @@
+# קובצי PUF גולמיים של הלמ"ס — הרישיון אוסר הפצה (CLAUDE.md §5.4)
+data/puf/
+*.sav
+*.dta
+*.por
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+~$*

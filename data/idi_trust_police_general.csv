@@ -1,0 +1,13 @@
+year,total_pct,jews_pct,arabs_pct,note
+2014,47,45,57,
+2015,42,42,44,
+2016,40,42,27,
+2017,40,42,29,
+2018,47,52,18,
+2019,43,44,38,
+2020,43,44,33,"column mislabeled 2022 in original IDI table"
+2021,37,42,14,
+2022,32,36,13,
+2023,32,35,17,"June 2023; Oct/Dec 2023 special surveys excluded"
+2024,41,44,22,
+2025,37,39,25,
