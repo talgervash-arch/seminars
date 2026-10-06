@@ -1,0 +1,10 @@
+year,concept,crime_type,puf_file,puf_variable,code_yes,code_no,source_in_dictionary,notes
+2021,weight,,data/puf/2021/TO_FILL.csv,TO_FILL,,,,"משקל פרט (לפי CLAUDE.md: GN_Prat?) — לאמת במילון"
+2021,religiosity,,data/puf/2021/TO_FILL.csv,TO_FILL,1,"2;3;4;5",,"שאלון 2021 ש' 190: 1=חרדי 2=דתי 3=מסורתי-דתי 4=מסורתי לא כל כך דתי 5=לא דתי/חילוני (נשאל יהודים בלבד) — לאמת קודים ב-PUF"
+2021,reported,theft,data/puf/2021/TO_FILL.csv,TO_FILL,1,2,,"שאלון 2021 ש' 15: האם דיווחת למשטרה על הגניבה האחרונה"
+2021,reported,violence_threat,data/puf/2021/TO_FILL.csv,TO_FILL,1,2,,"שאלון 2021 ש' 39: האם דיווחת למשטרה על הפגיעה האחרונה"
+2021,reported,sexual_harassment,data/puf/2021/TO_FILL.csv,TO_FILL,1,2,,"לאתר בשאלון/מילון"
+2021,reported,sexual_offences,data/puf/2021/TO_FILL.csv,TO_FILL,1,2,,"לאתר בשאלון/מילון"
+2021,reported,cyber,data/puf/2021/TO_FILL.csv,TO_FILL,1,2,,"לאתר בשאלון/מילון"
+2021,reason_not_reported,violence_threat,data/puf/2021/TO_FILL.csv,TO_FILL,,,,"שאלון 2021 ש' 42 (10 קטגוריות; 6=פנית לגורם אחר; 9=טיפלת בעצמך)"
+2021,other_body,violence_threat,data/puf/2021/TO_FILL.csv,TO_FILL,1,,,"שאלון 2021 ש' 43 (רב-בחירה, 1-10; 9=גורם אחר, פרט) — משתנה נפרד לכל אפשרות?"

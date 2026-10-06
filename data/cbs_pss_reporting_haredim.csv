@@ -1,0 +1,13 @@
+year,haredi_reported_pct,nonharedi_jews_reported_pct,n_haredi_victims_unweighted,status,note
+2014,,,,not_available,"religiosity reportedly not asked in 2014 survey (CLAUDE.md §5.1) - to confirm from 2014 questionnaire"
+2015,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
+2016,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
+2017,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
+2018,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
+2019,,,,missing_requires_puf,"checked pub. 1808: reporting tables (1.5-1.8) by crime type only"
+2020,,,,missing_requires_puf,"checked pub. 1834: reporting tables (1.5-1.8) by crime type only"
+2021,,,,missing_requires_puf,"checked pub. 1867: reporting tables (1.5-1.8) by crime type only; religiosity only in table 1.2 (victimization)"
+2022,,,,missing_requires_puf,"checked pub. 1907 tables 1.2/1.5 and media release 209/2023: religiosity only for victimization and fear"
+2023,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
+2024,,,,missing_requires_puf,"media release 044/2026: religiosity only for cyber victimization; compute from PUF"
+2025,,,,missing_requires_puf,"PUF 2025 listed as available on CBS PUF page"
