@@ -1,13 +1,13 @@
-year,haredi_reported_pct,nonharedi_jews_reported_pct,n_haredi_victims_unweighted,status,note
-2014,,,,not_available,"religiosity reportedly not asked in 2014 survey (CLAUDE.md §5.1) - to confirm from 2014 questionnaire"
-2015,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
-2016,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
-2017,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
-2018,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
-2019,,,,missing_requires_puf,"checked pub. 1808: reporting tables (1.5-1.8) by crime type only"
-2020,,,,missing_requires_puf,"checked pub. 1834: reporting tables (1.5-1.8) by crime type only"
-2021,,,,missing_requires_puf,"checked pub. 1867: reporting tables (1.5-1.8) by crime type only; religiosity only in table 1.2 (victimization)"
-2022,,,,missing_requires_puf,"checked pub. 1907 tables 1.2/1.5 and media release 209/2023: religiosity only for victimization and fear"
-2023,,,,missing_requires_puf,"not published by religiosity; compute from CBS PUF (weighted)"
-2024,,,,missing_requires_puf,"media release 044/2026: religiosity only for cyber victimization; compute from PUF"
-2025,,,,missing_requires_puf,"PUF 2025 listed as available on CBS PUF page"
+period,crime_scope,haredi_reported_pct,nonharedi_jews_reported_pct,arabs_reported_pct,reliability,status,source,page,url,note
+2014,,,,,,not_available,,,,religiosity reportedly not asked in 2014 (CLAUDE.md §5.1) - to confirm from 2014 questionnaire
+2015-2016,personal_offences,27.1,21.7,23.5,large_rse_small_n,published_special_tabulation,"Kasir (Kaliner) & Romanov (2018), Haredi Institute for Public Policy, 'Quality of life ... Part B: tables and charts' — CBS special tabulations of Personal Security Surveys 2015 & 2016",152,https://machon.org.il/wp-content/uploads/2019/07/d790d799d79bd795d7aa-d794d797d799d799d79d-d7a9d79c-d790d795d79bd79cd795d7a1d799d795d7aa-d791d797d791d7a8d794-d794d799d7a9d7a8d790d79c.pdf,"% of victims 20+ of personal offences (theft, violence/threat, sexual harassment, sexual offences, cyber) who reported; source flags '±' = large relative sampling error, small number of cases; comparison group = 'Jews non-Haredi and others'"
+2015-2016,household_property,25.9,42.5,37.3,large_rse_small_n,published_special_tabulation,"Kasir (Kaliner) & Romanov (2018), Haredi Institute for Public Policy, 'Quality of life ... Part B: tables and charts' — CBS special tabulations of Personal Security Surveys 2015 & 2016",152,https://machon.org.il/wp-content/uploads/2019/07/d790d799d79bd795d7aa-d794d797d799d799d79d-d7a9d79c-d790d795d79bd79cd795d7a1d799d795d7aa-d791d797d791d7a8d794-d794d799d7a9d7a8d790d79c.pdf,"% of victimized households (burglary, car theft/break-in) that reported; '±' flag in source; main report p.190 text gives Arabs 37.7"
+2016-2017,personal_offences,24.1,24.7,28.3,not_stated,published_special_tabulation,"Kasir, Romanov et al. (2019), Haredi Institute for Public Policy, 'Quality of Life Index 2019', table 'personal security domain indices' — CBS data",50,https://machon.org.il/wp-content/uploads/2019/10/d79ed793d793-d790d799d79bd795d7aa-d794d797d799d799d79d-2019.pdf,table on p.50; body text p.51 swaps Haredi/non-Haredi values ('25 and 24') - cite the table; 2017 survey year = Oct 2016-Sep 2017
+2018,,,,,,missing_requires_puf,,,,not published by religiosity; compute from CBS PUF (weighted)
+2019,,,,,,missing_requires_puf,,,,checked CBS pub. 1808: reporting tables by crime type only
+2020,,,,,,missing_requires_puf,,,,checked CBS pub. 1834: reporting tables by crime type only
+2021,,,,,,missing_requires_puf,,,,checked CBS pub. 1867: religiosity only in table 1.2 (victimization)
+2022,,,,,,missing_requires_puf,,,,checked CBS pub. 1907 + media release 209/2023: religiosity only for victimization/fear
+2023,,,,,,missing_requires_puf,,,,not published by religiosity; compute from CBS PUF (weighted)
+2024,,,,,,missing_requires_puf,,,,media release 044/2026: religiosity only for cyber victimization
+2025,,,,,,missing_requires_puf,,,,PUF 2025 listed as available on CBS PUF page
