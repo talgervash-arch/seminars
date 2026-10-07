@@ -7,10 +7,11 @@
 
 מקורות:
     data/sources/cbs_pss/y*_t1_*.xls(x)   — קובצי האקסל של הלמ"ס (2014–2018, 2023–2025)
-    data/sources/cbs_pss/manual_*.csv     — תעתיק ידני מ-PDF (2019–2022; אין קובצי אקסל), נבדק מול עמודים מרונדרים
+    data/sources/cbs_pss/manual_*.csv     — תעתיק ידני מ-PDF (2019–2022), נבדק מול עמודים מרונדרים ומול קובצי האקסל
+                                            y2019–y2022_t01_0*.xlsx (זהים בכל 250 התאים; באקסל 2021–2022 אין סוגריים)
     PDF_FLAGS (להלן)                      — סימוני מהימנות מה-PDF ל-2023–2025 (קובצי האקסל של שנים אלה לא מסמנים אותם)
 
-סימונים: ok | low_rse_15_30 ("( )") | suppressed_rse_gt30 ("..") | no_cases ("-") | not_asked (תא ריק)
+סימונים: ok | low_rse_15_30 ("( )") | suppressed_rse_gt30 ("..") | no_cases ("-") | blank_in_source (תא ריק)
 ב-2014 ההגדרות שונות: "( )" = 25%–40%, ".." = 40% ומעלה.
 
     python analysis/build_pss_published.py
@@ -71,7 +72,7 @@ def flag(tok, year=None):
     if tok == "-":
         return "", "no_cases"
     if tok == "":
-        return "", "not_asked"
+        return "", "blank_in_source"  # הלמ"ס: ריק = לא רלוונטי / אין נתון
     if tok.startswith("(") or tok.startswith(")"):
         return f"{float(tok.strip('()').replace(',', '')):.1f}", ("low_rse_25_40" if year == 2014 else "low_rse_15_30")
     return f"{float(tok.replace(',', '')):.1f}", "ok"
@@ -135,7 +136,10 @@ def victimization_rows():
                 rows.append(dict(year=year, religiosity=g, crime_type=crime, population_20plus_thousands=pop,
                                  victims_thousands=tv, victims_pct=pv, reliability=pf, reliability_thousands=tf,
                                  source=f"CBS pub. {pub}, table 1.2", page=page, url=BASE + pdf,
-                                 note=("2023+: excludes respondents who did not state religiosity" if year >= 2023 else "")))
+                                 note=("excludes respondents who did not state religiosity (table footnote 1)" if year >= 2023 else "")))
+    for r in rows:
+        if int(r["year"]) in (2021, 2022) and not r["note"]:
+            r["note"] = "excludes respondents who did not state religiosity (table footnote 1)"
     rows.sort(key=lambda r: (int(r["year"]), r["religiosity"], r["crime_type"]))
     return rows
 

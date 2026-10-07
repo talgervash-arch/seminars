@@ -1,7 +1,7 @@
-year,haredim_pct,all_20plus_pct,gap_haredim_vs_all,source
-2015,52.3,52.6,-0.3,"CBS pub. 1670, table 37"
-2021,45.9,51.2,-5.3,"CBS pub. 1905, core table 20"
-2022,32.0,47.6,-15.6,"CBS pub. 1939, core table 20"
-2023,51.6,51.9,-0.3,"CBS pub. 1972, core table 20"
-2024,53.2,56.1,-2.9,"CBS pub. 1985, core table 20"
-2025,47.6,55.0,-7.4,CBS table generator; media release 202/2026
+year,haredim_pct,all_20plus_pct,gap_haredim_vs_all,jews_pct,gap_haredim_vs_jews,source
+2015,52.3,52.6,-0.3,56.6,-4.3,"CBS pub. 1670, table 37"
+2021,45.9,51.2,-5.3,54.7,-8.8,"CBS pub. 1905, core table 20"
+2022,32.0,47.6,-15.6,50.0,-18.0,"CBS pub. 1939, core table 20"
+2023,51.6,51.9,-0.3,56.8,-5.2,"CBS pub. 1972, core table 20"
+2024,53.2,56.1,-2.9,59.8,-6.6,"CBS pub. 1985, core table 20"
+2025,47.6,55.0,-7.4,58.2,-10.6,CBS table generator; media release 202/2026

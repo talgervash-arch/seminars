@@ -1,13 +1,13 @@
-year,haredim_good_or_very_good_pct,note
-2014,,not asked
-2015,44.5,
-2016,,not asked
-2017,,not asked
-2018,44.5,
-2019,38.8,
-2020,34.5,
-2021,37.2,
-2022,31.6,
-2023,45.3,
-2024,51.9,
-2025,42.4,
+year,haredim_good_or_very_good_pct,all_20plus_pct,source,page,url,note
+2014,,,,,,not asked
+2015,44.5,39.3,"CBS pub. 1670, table 33",138,https://www.cbs.gov.il/he/publications/DocLib/2017/seker_hevrati15_1670/t33.pdf,'good' = very good + good; denominator includes 'don't know'
+2016,,,,,,not asked
+2017,,,,,,not asked
+2018,44.5,,CBS Social Survey 2018 (pub. 1788) - table generator,,,UNVERIFIED: question asked (Q21.111) but not tabulated in pub. 1788; value identical to 2015 - check for copy error in master
+2019,38.8,41.3,"CBS pub. 1829, core table 19",115,https://www.cbs.gov.il/he/publications/DocLib/2021/seker_hevrati19_1829/t19.pdf,
+2020,34.3,43.3,"CBS pub. 1864, core table 19",151,https://www.cbs.gov.il/he/publications/DocLib/2022/seker_hevrati20_1864/t19.pdf,corrected 7.10.2026 from 34.5 (verified on rendered page)
+2021,37.2,38.1,"CBS pub. 1905, core table 19",96,https://www.cbs.gov.il/he/publications/DocLib/2024/1905/t19.pdf,
+2022,31.6,35.6,"CBS pub. 1939, core table 19",119,https://www.cbs.gov.il/he/publications/DocLib/2024/1939/t19.pdf,
+2023,45.3,40.7,"CBS pub. 1972, core table 19",124,https://www.cbs.gov.il/he/publications/DocLib/2025/seker_hevrati23_1972/t19.pdf,~65% of Jewish respondents interviewed before 7.10.2023 (pub. 1972 table 30)
+2024,51.9,46.6,"CBS pub. 1985, core table 19",92,https://www.cbs.gov.il/he/publications/DocLib/2026/1985/t19.pdf,
+2025,42.4,,CBS Social Survey 2025 - table generator,,,UNVERIFIED: 2025 tables not yet published; table generator currently down
