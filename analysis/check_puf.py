@@ -22,10 +22,13 @@ def find(folder, pattern):
 
 
 def read_averages(path):
-    """קובץ הממוצעים של הלמ"ס: שורת כותרת Variable/Label/N/Mean..., וכל עמודה היא תא אחד עם ערכים מופרדים בשורות."""
+    """קובץ הממוצעים של הלמ"ס: שורת כותרת (Variable/Label/)N/Mean/...; העמודה הראשונה — שם המשתנה.
+    בשנים מסוימות כל עמודה היא תא אחד עם ערכים מופרדים בשורות, ובאחרות שורה לכל משתנה."""
     raw = pd.read_excel(path, header=None).dropna(how="all").dropna(axis=1, how="all")
-    hdr = raw.index[raw.iloc[:, 0].astype(str).str.strip() == "Variable"][0]
+    is_hdr = raw.apply(lambda r: {"N", "Mean"} <= {str(c).strip() for c in r}, axis=1)
+    hdr = raw.index[is_hdr][0]
     cols = [str(c).strip() for c in raw.loc[hdr]]
+    cols[0] = "Variable"  # ב-2020 הכותרת קטועה ("iable")
     body = raw.loc[raw.index > hdr]
     out = {}
     for c, name in enumerate(cols):
