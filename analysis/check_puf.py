@@ -52,7 +52,12 @@ def main(folder):
                 missing.append(v)
                 continue
             x = pd.to_numeric(d[v], errors="coerce")
-            if int(x.notna().sum()) != int(float(r["N"])) or abs(x.mean() - float(r["Mean"])) > 1e-4 * max(1, abs(float(r["Mean"]))):
+            mean = r["Mean"].strip()
+            if mean == ".":  # משתנה ריק (N=0) — בודקים רק N
+                if int(x.notna().sum()) != int(float(r["N"])):
+                    bad.append((v, r["N"], int(x.notna().sum()), mean, None))
+                continue
+            if int(x.notna().sum()) != int(float(r["N"])) or abs(x.mean() - float(mean)) > 1e-4 * max(1, abs(float(mean))):
                 bad.append((v, r["N"], int(x.notna().sum()), r["Mean"], x.mean()))
         print(f"averages check: {len(a)} variables, {len(bad)} mismatches, {len(missing)} not in data")
         for b in bad[:20]:
