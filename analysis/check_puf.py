@@ -8,6 +8,8 @@
 
 שימוש:
     python analysis/check_puf.py data/puf/2024
+
+דורש pandas, openpyxl, ו-xlrd (לקובצי averages בפורמט .xls ישן, למשל 2019).
 """
 import glob
 import os
@@ -30,6 +32,10 @@ def read_averages(path):
     cols = [str(c).strip() for c in raw.loc[hdr]]
     cols[0] = "Variable"  # ב-2020 הכותרת קטועה ("iable")
     body = raw.loc[raw.index > hdr]
+    if not body.astype(str).apply(lambda c: c.str.contains("\n")).any().any():  # שורה לכל משתנה
+        body = body[body.iloc[:, 0].notna()].astype(str)
+        body.columns = cols
+        return body.reset_index(drop=True)
     out = {}
     for c, name in enumerate(cols):
         vals = []
