@@ -1,0 +1,1063 @@
+year,concept,crime_type,puf_variable,code,label,harmonized
+2015,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2015,religiosity,,Datiut,1,חרדי,haredi
+2015,religiosity,,Datiut,2,דתי,religious
+2015,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2015,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2015,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2015,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2015,victim,theft,GnevaPrat,1,כן,yes
+2015,victim,theft,GnevaPrat,2,לא,no
+2015,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2015,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2015,reported,theft,HitlonenGnevaPrat,2,לא,no
+2015,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2015,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2015,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2015,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2015,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2015,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבה אחרת, פרט:",other
+2015,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2015,victim,violence_threat,AlimutPrat,1,כן,yes
+2015,victim,violence_threat,AlimutPrat,2,לא,no
+2015,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2015,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2015,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,התביישת לדבר על כך,ashamed
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פחדת מנקמה,fear_revenge
+2015,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,"סיבה אחרת, פרט",other
+2015,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2015,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2015,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2015,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2015,other_body,violence_threat,DivuahAlimutPrat5,1,"לגורם אחר, פרט",other
+2015,other_body,violence_threat,DivuahAlimutPrat6,1,לא פנית או דיווחת לכל גורם שהוא,none
+2015,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2015,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2015,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2015,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2015,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2015,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדת כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,התביישת לדבר על כך,ashamed
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פחדת מנקמה,fear_revenge
+2015,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,"סיבה אחרת, פרט:",other
+2015,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2015,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2015,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2015,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2015,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,"לגורם אחר, פרט:",other
+2015,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לא פנית או דיווחת לכל גורם שהוא,none
+2015,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2015,victim,cyber,CyberPrat,1,כן,yes
+2015,victim,cyber,CyberPrat,2,לא,no
+2015,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2015,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2015,reported,cyber,HitlonenCyberPrat,2,לא,no
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,5,התביישת לדבר על כך,ashamed
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פחדת מנקמה,fear_revenge
+2015,reason_not_reported,cyber,LoHitlonenCyberPrat,7,"סיבה אחרת, פרט:",other
+2015,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2015,other_body,cyber,DivuahCyberPrat2,1,לחבר,acquaintance
+2015,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2015,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים)",website
+2015,other_body,cyber,DivuahCyberPrat5,1,"לגורם אחר, פרט:",other
+2015,other_body,cyber,DivuahCyberPrat6,1,לא פנית או דיווחת לכל גורם שהוא,none
+2016,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2016,religiosity,,Datiut,1,חרדי,haredi
+2016,religiosity,,Datiut,2,דתי,religious
+2016,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2016,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2016,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2016,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2016,victim,theft,GnevaPrat,1,כן,yes
+2016,victim,theft,GnevaPrat,2,לא,no
+2016,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2016,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2016,reported,theft,HitlonenGnevaPrat,2,לא,no
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2016,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,"סיבה אחרת, פרט:",other
+2016,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2016,victim,violence_threat,AlimutPrat,1,כן,yes
+2016,victim,violence_threat,AlimutPrat,2,לא,no
+2016,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2016,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2016,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2016,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,"סיבה אחרת, פרט",other
+2016,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2016,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2016,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2016,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2016,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2016,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2016,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2016,other_body,violence_threat,DivuahAlimutPrat8,1,"לגורם אחר, פרט",other
+2016,other_body,violence_threat,DivuahAlimutPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2016,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2016,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2016,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2016,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2016,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2016,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדת כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פנית לגורם אחר,turned_elsewhere
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישת לדבר על כך,ashamed
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדת מנקמה,fear_revenge
+2016,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,"סיבה אחרת, פרט:",other
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,"לגורם אחר, פרט:",other
+2016,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2016,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2016,victim,cyber,CyberPrat,1,כן,yes
+2016,victim,cyber,CyberPrat,2,לא,no
+2016,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2016,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2016,reported,cyber,HitlonenCyberPrat,2,לא,no
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פנית לגורם אחר,turned_elsewhere
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,7,התביישת לדבר על כך,ashamed
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,8,פחדת מנקמה,fear_revenge
+2016,reason_not_reported,cyber,LoHitlonenCyberPrat,9,"סיבה אחרת, פרט:",other
+2016,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2016,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2016,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2016,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים)",website
+2016,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2016,other_body,cyber,DivuahCyberPrat6,1,"לגורם אחר, פרט:",other
+2016,other_body,cyber,DivuahCyberPrat7,1,לא פנית או דיווחת לכל גורם שהוא,none
+2017,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2017,religiosity,,Datiut,1,חרדי,haredi
+2017,religiosity,,Datiut,2,דתי,religious
+2017,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2017,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2017,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2017,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2017,victim,theft,GnevaPrat,1,כן,yes
+2017,victim,theft,GnevaPrat,2,לא,no
+2017,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2017,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2017,reported,theft,HitlonenGnevaPrat,2,לא,no
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2017,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,"סיבה אחרת, פרט:",other
+2017,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2017,victim,violence_threat,AlimutPrat,1,כן,yes
+2017,victim,violence_threat,AlimutPrat,2,לא,no
+2017,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2017,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2017,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2017,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,"סיבה אחרת, פרט",other
+2017,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2017,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2017,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2017,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2017,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2017,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2017,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2017,other_body,violence_threat,DivuahAlimutPrat8,1,"לגורם אחר, פרט",other
+2017,other_body,violence_threat,DivuahAlimutPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2017,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2017,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2017,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2017,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2017,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2017,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדת כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פנית לגורם אחר,turned_elsewhere
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישת לדבר על כך,ashamed
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדת מנקמה,fear_revenge
+2017,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,"סיבה אחרת, פרט:",other
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,"לגורם אחר, פרט:",other
+2017,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2017,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2017,victim,cyber,CyberPrat,1,כן,yes
+2017,victim,cyber,CyberPrat,2,לא,no
+2017,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2017,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2017,reported,cyber,HitlonenCyberPrat,2,לא,no
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פנית לגורם אחר,turned_elsewhere
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,7,התביישת לדבר על כך,ashamed
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,8,פחדת מנקמה,fear_revenge
+2017,reason_not_reported,cyber,LoHitlonenCyberPrat,9,"סיבה אחרת, פרט:",other
+2017,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2017,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2017,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2017,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים)",website
+2017,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2017,other_body,cyber,DivuahCyberPrat6,1,"לגורם אחר, פרט:",other
+2017,other_body,cyber,DivuahCyberPrat7,1,לא פנית או דיווחת לכל גורם שהוא,none
+2018,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2018,religiosity,,Datiut,1,חרדי,haredi
+2018,religiosity,,Datiut,2,דתי,religious
+2018,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2018,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2018,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2018,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2018,victim,theft,GnevaPrat,1,כן,yes
+2018,victim,theft,GnevaPrat,2,לא,no
+2018,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2018,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2018,reported,theft,HitlonenGnevaPrat,2,לא,no
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2018,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,"סיבה אחרת, פרט:",other
+2018,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2018,victim,violence_threat,AlimutPrat,1,כן,yes
+2018,victim,violence_threat,AlimutPrat,2,לא,no
+2018,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2018,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2018,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטיפל,police_unable
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2018,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,"סיבה אחרת, פרט",other
+2018,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2018,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2018,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2018,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2018,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2018,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2018,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2018,other_body,violence_threat,DivuahAlimutPrat8,1,"לגורם אחר, פרט",other
+2018,other_body,violence_threat,DivuahAlimutPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2018,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2018,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2018,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2018,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2018,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2018,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רציתם להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדתם כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פניתם לגורם אחר,turned_elsewhere
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישתם לדבר על כך,ashamed
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדתם מנקמה,fear_revenge
+2018,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,"סיבה אחרת, פרט:",other
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,"לגורם אחר, פרט:",other
+2018,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2018,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2018,victim,cyber,CyberPrat,1,כן,yes
+2018,victim,cyber,CyberPrat,2,לא,no
+2018,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2018,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2018,reported,cyber,HitlonenCyberPrat,2,לא,no
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פנית לגורם אחר,turned_elsewhere
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,7,התביישת לדבר על כך,ashamed
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,8,פחדת מנקמה,fear_revenge
+2018,reason_not_reported,cyber,LoHitlonenCyberPrat,9,"סיבה אחרת, פרט:",other
+2018,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2018,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2018,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2018,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים)",website
+2018,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2018,other_body,cyber,DivuahCyberPrat6,1,"לגורם אחר, פרט:",other
+2018,other_body,cyber,DivuahCyberPrat7,1,לא פניתי או דיווחתי לכל גורם שהוא,none
+2019,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2019,religiosity,,Datiut,1,חרדי,haredi
+2019,religiosity,,Datiut,2,דתי,religious
+2019,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2019,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2019,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2019,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2019,victim,theft,GnevaPrat,1,כן,yes
+2019,victim,theft,GnevaPrat,2,לא,no
+2019,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2019,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2019,reported,theft,HitlonenGnevaPrat,2,לא,no
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2019,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,"סיבה אחרת, פרט:",other
+2019,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2019,victim,violence_threat,AlimutPrat,1,כן,yes
+2019,victim,violence_threat,AlimutPrat,2,לא,no
+2019,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2019,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2019,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטיפל,police_unable
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2019,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,"סיבה אחרת, פרט",other
+2019,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2019,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול ריפואי,medical
+2019,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2019,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2019,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2019,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2019,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2019,other_body,violence_threat,DivuahAlimutPrat8,1,"לגורם אחר, פרט",other
+2019,other_body,violence_threat,DivuahAlimutPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2019,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2019,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2019,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2019,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2019,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2019,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רציתם להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדתם כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פניתם לגורם אחר,turned_elsewhere
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישתם לדבר על כך,ashamed
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדתם מנקמה,fear_revenge
+2019,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,"סיבה אחרת, פרט:",other
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,"לגורם אחר, פרט:",other
+2019,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,לא פנית או דיווחת לכל גורם שהוא,none
+2019,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2019,victim,cyber,CyberPrat,1,כן,yes
+2019,victim,cyber,CyberPrat,2,לא,no
+2019,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2019,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2019,reported,cyber,HitlonenCyberPrat,2,לא,no
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פנית לגורם אחר,turned_elsewhere
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,7,התביישת לדבר על כך,ashamed
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,8,פחדת מנקמה,fear_revenge
+2019,reason_not_reported,cyber,LoHitlonenCyberPrat,9,"סיבה אחרת, פרט:",other
+2019,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2019,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2019,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2019,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים)",website
+2019,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2019,other_body,cyber,DivuahCyberPrat6,1,"לגורם אחר, פרט:",other
+2019,other_body,cyber,DivuahCyberPrat7,1,לא פניתי או דיווחתי לכל גורם שהוא,none
+2020,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2020,religiosity,,Datiut,1,חרדי,haredi
+2020,religiosity,,Datiut,2,דתי,religious
+2020,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2020,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2020,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2020,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2020,victim,theft,GnevaPrat,1,כן,yes
+2020,victim,theft,GnevaPrat,2,לא,no
+2020,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2020,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2020,reported,theft,HitlonenGnevaPrat,2,לא,no
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,טיפלת בעצמך בבעיה,handled_self
+2020,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,8,"סיבה אחרת, פרט:",other
+2020,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2020,victim,violence_threat,AlimutPrat,1,כן,yes
+2020,victim,violence_threat,AlimutPrat,2,לא,no
+2020,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2020,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2020,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,טיפלת בעצמך בבעיה,handled_self
+2020,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,10,"סיבה אחרת, פרט",other
+2020,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2020,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2020,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2020,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2020,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2020,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2020,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2020,other_body,violence_threat,DivuahAlimutPrat8,1,לגורמים במקום העבודה,workplace
+2020,other_body,violence_threat,DivuahAlimutPrat9,1,"לגורם אחר, פרט",other
+2020,other_body,violence_threat,DivuahAlimutPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2020,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2020,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2020,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2020,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2020,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2020,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רציתם להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדתם כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פניתם לגורם אחר,turned_elsewhere
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישתם לדבר על כך,ashamed
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדתם מנקמה,fear_revenge
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,טיפלת בעצמך בבעיה,handled_self
+2020,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,10,"סיבה אחרת, פרט:",other
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,לגורמים במקום העבודה,workplace
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,"לגורם אחר, פרט:",other
+2020,other_body,sexual_harassment,DivuahHatradaMinitPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2020,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2020,victim,cyber,CyberPrat,1,כן,yes
+2020,victim,cyber,CyberPrat,2,לא,no
+2020,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2020,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2020,reported,cyber,HitlonenCyberPrat,2,לא,no
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פנית לגורם אחר,turned_elsewhere
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,7,התביישת לדבר על כך,ashamed
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,8,פחדת מנקמה,fear_revenge
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,9,טיפלת בעצמך בבעיה,handled_self
+2020,reason_not_reported,cyber,LoHitlonenCyberPrat,10,"סיבה אחרת, פרט:",other
+2020,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2020,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2020,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2020,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים, קבוצות תמיכה)",website
+2020,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2020,other_body,cyber,DivuahCyberPrat6,1,"לגורם אחר, פרט:",other
+2020,other_body,cyber,DivuahCyberPrat7,1,לא פניתי או דיווחתי לכל גורם שהוא,none
+2021,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2021,religiosity,,Datiut,1,חרדי,haredi
+2021,religiosity,,Datiut,2,דתי,religious
+2021,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2021,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2021,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2021,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2021,victim,theft,GnevaPrat,1,כן,yes
+2021,victim,theft,GnevaPrat,2,לא,no
+2021,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2021,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2021,reported,theft,HitlonenGnevaPrat,2,לא,no
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,טיפלת בעצמך בבעיה,handled_self
+2021,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,8,"סיבה אחרת, פרט:",other
+2021,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2021,victim,violence_threat,AlimutPrat,1,כן,yes
+2021,victim,violence_threat,AlimutPrat,2,לא,no
+2021,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2021,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2021,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,טיפלת בעצמך בבעיה,handled_self
+2021,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,10,"סיבה אחרת, פרט",other
+2021,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2021,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2021,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2021,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2021,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2021,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2021,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2021,other_body,violence_threat,DivuahAlimutPrat8,1,לגורמים במקום העבודה,workplace
+2021,other_body,violence_threat,DivuahAlimutPrat9,1,"לגורם אחר, פרט",other
+2021,other_body,violence_threat,DivuahAlimutPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2021,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2021,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2021,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2021,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2021,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2021,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רציתם להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדתם כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פניתם לגורם אחר,turned_elsewhere
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישתם לדבר על כך,ashamed
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדתם מנקמה,fear_revenge
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,טיפלת בעצמך בבעיה,handled_self
+2021,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,10,"סיבה אחרת, פרט:",other
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,לגורמים במקום העבודה,workplace
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,"לגורם אחר, פרט:",other
+2021,other_body,sexual_harassment,DivuahHatradaMinitPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2021,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2021,victim,cyber,CyberPrat,1,כן,yes
+2021,victim,cyber,CyberPrat,2,לא,no
+2021,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2021,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2021,reported,cyber,HitlonenCyberPrat,2,לא,no
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,6,פנית לגורם אחר,turned_elsewhere
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,7,התביישת לדבר על כך,ashamed
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,8,פחדת מנקמה,fear_revenge
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,9,טיפלת בעצמך בבעיה,handled_self
+2021,reason_not_reported,cyber,LoHitlonenCyberPrat,10,"סיבה אחרת, פרט:",other
+2021,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2021,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2021,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2021,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים, קבוצות תמיכה)",website
+2021,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2021,other_body,cyber,DivuahCyberPrat6,1,לחברת האשראי/לבנק,bank
+2021,other_body,cyber,DivuahCyberPrat7,1,לאיש מקצוע (לדוגמא: איש מחשבים),professional
+2021,other_body,cyber,DivuahCyberPrat8,1,"לגורם אחר, פרט:",other
+2021,other_body,cyber,DivuahCyberPrat9,1,לא פניתי או דיווחתי לכל גורם שהוא,none
+2022,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2022,religiosity,,Datiut,1,חרדי,haredi
+2022,religiosity,,Datiut,2,דתי,religious
+2022,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2022,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2022,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2022,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2022,victim,theft,GnevaPrat,1,כן,yes
+2022,victim,theft,GnevaPrat,2,לא,no
+2022,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2022,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2022,reported,theft,HitlonenGnevaPrat,2,לא,no
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורם אחר,turned_elsewhere
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,טיפלת בעצמך בבעיה,handled_self
+2022,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,8,"סיבה אחרת, פרט:",other
+2022,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2022,victim,violence_threat,AlimutPrat,1,כן,yes
+2022,victim,violence_threat,AlimutPrat,2,לא,no
+2022,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2022,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2022,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורם אחר,turned_elsewhere
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,טיפלת בעצמך בבעיה,handled_self
+2022,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,10,"סיבה אחרת, פרט",other
+2022,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2022,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2022,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2022,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2022,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2022,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2022,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2022,other_body,violence_threat,DivuahAlimutPrat8,1,לגורמים במקום העבודה,workplace
+2022,other_body,violence_threat,DivuahAlimutPrat9,1,"לגורם אחר, פרט",other
+2022,other_body,violence_threat,DivuahAlimutPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2022,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2022,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2022,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2022,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2022,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2022,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רציתם להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדתם כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פניתם לגורם אחר,turned_elsewhere
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישתם לדבר על כך,ashamed
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדתם מנקמה,fear_revenge
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,טיפלת בעצמך בבעיה,handled_self
+2022,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,10,"סיבה אחרת, פרט:",other
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,לגורמים במקום העבודה,workplace
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,"לגורם אחר, פרט:",other
+2022,other_body,sexual_harassment,DivuahHatradaMinitPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2022,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2022,victim,cyber,CyberPrat,1,כן,yes
+2022,victim,cyber,CyberPrat,2,לא,no
+2022,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2022,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2022,reported,cyber,HitlonenCyberPrat,2,לא,no
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,5,לא ידעתי שהמשטרה מטפלת במקרים מסוג זה,didnt_know_police_handles
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,6,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,7,פנית לגורם אחר,turned_elsewhere
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,8,התביישת לדבר על כך,ashamed
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,9,פחדת מנקמה,fear_revenge
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,10,טיפלת בעצמך בבעיה,handled_self
+2022,reason_not_reported,cyber,LoHitlonenCyberPrat,11,"סיבה אחרת, פרט:",other
+2022,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2022,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2022,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2022,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים, קבוצות תמיכה)",website
+2022,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2022,other_body,cyber,DivuahCyberPrat6,1,לחברת האשראי/לבנק,bank
+2022,other_body,cyber,DivuahCyberPrat7,1,לאיש מקצוע (לדוגמא: איש מחשבים),professional
+2022,other_body,cyber,DivuahCyberPrat8,1,לגורם ממשלתי/ציבורי,government
+2022,other_body,cyber,DivuahCyberPrat9,1,"לגורמים אחרים, פרט:",other
+2022,other_body,cyber,DivuahCyberPrat10,1,לא פניתי או דיווחתי לכל גורם שהוא,none
+2023,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2023,religiosity,,Datiut,1,חרדי,haredi
+2023,religiosity,,Datiut,2,דתי,religious
+2023,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2023,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2023,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2023,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2023,victim,theft,GnevaPrat,1,כן,yes
+2023,victim,theft,GnevaPrat,2,לא,no
+2023,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2023,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2023,reported,theft,HitlonenGnevaPrat,2,לא,no
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,טיפלת בעצמך בבעיה,handled_self
+2023,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,8,"סיבה אחרת, פרט:",other
+2023,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2023,victim,violence_threat,AlimutPrat,1,כן,yes
+2023,victim,violence_threat,AlimutPrat,2,לא,no
+2023,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2023,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2023,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,טיפלת בעצמך בבעיה,handled_self
+2023,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,10,"סיבה אחרת, פרט",other
+2023,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2023,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2023,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2023,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2023,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2023,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2023,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2023,other_body,violence_threat,DivuahAlimutPrat8,1,לגורמים במקום העבודה,workplace
+2023,other_body,violence_threat,DivuahAlimutPrat9,1,"לגורמים אחרים, פרט",other
+2023,other_body,violence_threat,DivuahAlimutPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2023,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2023,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2023,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2023,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2023,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2023,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדת כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישת לדבר על כך,ashamed
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדת מנקמה,fear_revenge
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,טיפלת בעצמך בבעיה,handled_self
+2023,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,10,"סיבה אחרת, פרט:",other
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,לגורמים במקום העבודה,workplace
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,"לגורמים אחרים, פרט:",other
+2023,other_body,sexual_harassment,DivuahHatradaMinitPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2023,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2023,victim,cyber,CyberPrat,1,כן,yes
+2023,victim,cyber,CyberPrat,2,לא,no
+2023,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2023,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2023,reported,cyber,HitlonenCyberPrat,2,לא,no
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,5,לא ידעתי שהמשטרה מטפלת במקרים מסוג זה,didnt_know_police_handles
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,6,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,7,פנית לגורמים אחרים,turned_elsewhere
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,8,התביישת לדבר על כך,ashamed
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,9,פחדת מנקמה,fear_revenge
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,10,טיפלת בעצמך בבעיה,handled_self
+2023,reason_not_reported,cyber,LoHitlonenCyberPrat,11,"סיבה אחרת, פרט:",other
+2023,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2023,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2023,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2023,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים, קבוצות תמיכה)",website
+2023,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2023,other_body,cyber,DivuahCyberPrat6,1,לחברת האשראי/לבנק,bank
+2023,other_body,cyber,DivuahCyberPrat7,1,לאיש מקצוע (לדוגמא: איש מחשבים),professional
+2023,other_body,cyber,DivuahCyberPrat8,1,לגורם ממשלתי/ציבורי,government
+2023,other_body,cyber,DivuahCyberPrat9,1,"לגורמים אחרים, פרט:",other
+2023,other_body,cyber,DivuahCyberPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2024,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2024,religiosity,,Datiut,1,חרדי,haredi
+2024,religiosity,,Datiut,2,דתי,religious
+2024,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2024,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2024,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2024,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2024,victim,theft,GnevaPrat,1,כן,yes
+2024,victim,theft,GnevaPrat,2,לא,no
+2024,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2024,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2024,reported,theft,HitlonenGnevaPrat,2,לא,no
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,טיפלת בעצמך בבעיה,handled_self
+2024,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,8,"סיבה אחרת, פרט:",other
+2024,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2024,victim,violence_threat,AlimutPrat,1,כן,yes
+2024,victim,violence_threat,AlimutPrat,2,לא,no
+2024,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2024,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2024,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,טיפלת בעצמך בבעיה,handled_self
+2024,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,10,"סיבה אחרת, פרט",other
+2024,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2024,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2024,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2024,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2024,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2024,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2024,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2024,other_body,violence_threat,DivuahAlimutPrat8,1,לגורמים במקום העבודה,workplace
+2024,other_body,violence_threat,DivuahAlimutPrat9,1,"לגורמים אחרים, פרט",other
+2024,other_body,violence_threat,DivuahAlimutPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2024,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2024,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2024,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2024,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2024,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2024,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדת כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישת לדבר על כך,ashamed
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדת מנקמה,fear_revenge
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,טיפלת בעצמך בבעיה,handled_self
+2024,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,10,"סיבה אחרת, פרט:",other
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,לגורמים במקום העבודה,workplace
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,"לגורמים אחרים, פרט:",other
+2024,other_body,sexual_harassment,DivuahHatradaMinitPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2024,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2024,victim,cyber,CyberPrat,1,כן,yes
+2024,victim,cyber,CyberPrat,2,לא,no
+2024,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2024,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2024,reported,cyber,HitlonenCyberPrat,2,לא,no
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,5,לא ידעתי שהמשטרה מטפלת במקרים מסוג זה,didnt_know_police_handles
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,6,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,7,פנית לגורמים אחרים,turned_elsewhere
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,8,התביישת לדבר על כך,ashamed
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,9,פחדת מנקמה,fear_revenge
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,10,טיפלת בעצמך בבעיה,handled_self
+2024,reason_not_reported,cyber,LoHitlonenCyberPrat,11,"סיבה אחרת, פרט:",other
+2024,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2024,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2024,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2024,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים, קבוצות תמיכה)",website
+2024,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2024,other_body,cyber,DivuahCyberPrat6,1,לחברת האשראי/לבנק,bank
+2024,other_body,cyber,DivuahCyberPrat7,1,לאיש מקצוע (לדוגמא: איש מחשבים),professional
+2024,other_body,cyber,DivuahCyberPrat8,1,לגורם ממשלתי/ציבורי,government
+2024,other_body,cyber,DivuahCyberPrat9,1,"לגורמים אחרים, פרט:",other
+2024,other_body,cyber,DivuahCyberPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2025,weight,,GN_Prat,,מקדם ניפוח פרט,weight
+2025,religiosity,,Datiut,1,חרדי,haredi
+2025,religiosity,,Datiut,2,דתי,religious
+2025,religiosity,,Datiut,3,מסורתי-דתי,traditional_religious
+2025,religiosity,,Datiut,4,"מסורתי, לא כל כך דתי",traditional
+2025,religiosity,,Datiut,5,"לא דתי, חילוני",secular
+2025,victim,theft,GnevaPrat,0,אין מענה,no_answer
+2025,victim,theft,GnevaPrat,1,כן,yes
+2025,victim,theft,GnevaPrat,2,לא,no
+2025,reported,theft,HitlonenGnevaPrat,0,אין מענה,no_answer
+2025,reported,theft,HitlonenGnevaPrat,1,כן,yes
+2025,reported,theft,HitlonenGnevaPrat,2,לא,no
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,0,אין מענה,no_answer
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,7,טיפלת בעצמך בבעיה,handled_self
+2025,reason_not_reported,theft,SibaLoHitlonenGnevaPrat,8,"סיבה אחרת, פרט:",other
+2025,victim,violence_threat,AlimutPrat,0,אין מענה,no_answer
+2025,victim,violence_threat,AlimutPrat,1,כן,yes
+2025,victim,violence_threat,AlimutPrat,2,לא,no
+2025,reported,violence_threat,HitlonenAlimutPrat,0,אין מענה (לא רלוונטי),no_answer
+2025,reported,violence_threat,HitlonenAlimutPrat,1,כן,yes
+2025,reported,violence_threat,HitlonenAlimutPrat,2,לא,no
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,0,אין מענה,no_answer
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,4,מניסיון קודם למדת שטיפולה של המשטרה אינו יעיל,police_ineffective_past
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,7,התביישת לדבר על כך,ashamed
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,8,פחדת מנקמה,fear_revenge
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,9,טיפלת בעצמך בבעיה,handled_self
+2025,reason_not_reported,violence_threat,SibaLoHitlonenAlimutPrat,10,"סיבה אחרת, פרט",other
+2025,other_body,violence_threat,DivuahAlimutPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2025,other_body,violence_threat,DivuahAlimutPrat2,1,לטיפול רפואי,medical
+2025,other_body,violence_threat,DivuahAlimutPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2025,other_body,violence_threat,DivuahAlimutPrat4,1,לעמותה / לארגון חברתי,ngo
+2025,other_body,violence_threat,DivuahAlimutPrat5,1,לטיפול משפטי,legal
+2025,other_body,violence_threat,DivuahAlimutPrat6,1,לקרוב משפחה,family
+2025,other_body,violence_threat,DivuahAlimutPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2025,other_body,violence_threat,DivuahAlimutPrat8,1,לגורמים במקום העבודה,workplace
+2025,other_body,violence_threat,DivuahAlimutPrat9,1,"לגורמים אחרים, פרט",other
+2025,other_body,violence_threat,DivuahAlimutPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2025,victim,sexual_harassment,HatradaMinitPrat,0,אין מענה,no_answer
+2025,victim,sexual_harassment,HatradaMinitPrat,1,כן,yes
+2025,victim,sexual_harassment,HatradaMinitPrat,2,לא,no
+2025,reported,sexual_harassment,HitlonenHatradaMinitPrat,0,אין מענה (לא רלוונטי),no_answer
+2025,reported,sexual_harassment,HitlonenHatradaMinitPrat,1,כן,yes
+2025,reported,sexual_harassment,HitlonenHatradaMinitPrat,2,לא,no
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,0,אין מענה,no_answer
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,4,מניסיון קודם למדת כי טיפולה של המשוטרה אינו יעיל,police_ineffective_past
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,5,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,6,פנית לגורמים אחרים,turned_elsewhere
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,7,התביישת לדבר על כך,ashamed
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,8,פחדת מנקמה,fear_revenge
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,9,טיפלת בעצמך בבעיה,handled_self
+2025,reason_not_reported,sexual_harassment,LoHitlonenHatradaMinitPrat,10,"סיבה אחרת, פרט:",other
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat1,1,לשירותי רווחה / לעובד סוציאלי,welfare
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat2,1,לטיפול רפואי,medical
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat3,1,לטיפול נפשי / לפסיכולוג,mental_health
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat4,1,לעמותה / לארגון חברתי,ngo
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat5,1,לטיפול משפטי,legal
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat6,1,לקרוב משפחה,family
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat7,1,למכר שאינו קרוב משפחה,acquaintance
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat8,1,לגורמים במקום העבודה,workplace
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat9,1,"לגורמים אחרים, פרט:",other
+2025,other_body,sexual_harassment,DivuahHatradaMinitPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
+2025,victim,cyber,CyberPrat,0,אין מענה,no_answer
+2025,victim,cyber,CyberPrat,1,כן,yes
+2025,victim,cyber,CyberPrat,2,לא,no
+2025,reported,cyber,HitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2025,reported,cyber,HitlonenCyberPrat,1,כן,yes
+2025,reported,cyber,HitlonenCyberPrat,2,לא,no
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,0,אין מענה (לא רלוונטי),no_answer
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,1,לא רצית להטריח את המשטרה במקרה פעוט ערך,not_worth_bothering
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,2,במקרים כאלה המשטרה אינה מסוגלת לטפל,police_unable
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,3,במקרים כאלה המשטרה אינה מעוניינת לטפל,police_unwilling
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,4,מניסיון קודם למדת כי טיפולה של המשטרה אינו יעיל,police_ineffective_past
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,5,לא ידעתי שהמשטרה מטפלת במקרים מסוג זה,didnt_know_police_handles
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,6,"סיבות אישיות (חוסר זמן, טרחה)",personal_time
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,7,פנית לגורמים אחרים,turned_elsewhere
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,8,התביישת לדבר על כך,ashamed
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,9,פחדת מנקמה,fear_revenge
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,10,טיפלת בעצמך בבעיה,handled_self
+2025,reason_not_reported,cyber,LoHitlonenCyberPrat,11,"סיבה אחרת, פרט:",other
+2025,other_body,cyber,DivuahCyberPrat1,1,לקרוב משפחה,family
+2025,other_body,cyber,DivuahCyberPrat2,1,למכר שאינו קרוב משפחה,acquaintance
+2025,other_body,cyber,DivuahCyberPrat3,1,לספק שירות אינטרנט,isp
+2025,other_body,cyber,DivuahCyberPrat4,1,"לאתר אינטרנט (כגון: קבוצות חברתיות, פורומים, קבוצות תמיכה)",website
+2025,other_body,cyber,DivuahCyberPrat5,1,לטיפול משפטי,legal
+2025,other_body,cyber,DivuahCyberPrat6,1,לחברת האשראי/לבנק,bank
+2025,other_body,cyber,DivuahCyberPrat7,1,לאיש מקצוע (לדוגמא: איש מחשבים),professional
+2025,other_body,cyber,DivuahCyberPrat8,1,לגורם ממשלתי/ציבורי,government
+2025,other_body,cyber,DivuahCyberPrat9,1,"לגורמים אחרים, פרט:",other
+2025,other_body,cyber,DivuahCyberPrat10,1,לא פנית או דיווחת לכל גורם שהוא,none
